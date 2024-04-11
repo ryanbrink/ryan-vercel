@@ -8,7 +8,7 @@ class HomeViewModel {
   }
 }
 
-export const Home = () => {
+const Home = () => {
   return (
     <div>
       <p style={{ fontSize: 50 }}>Hello</p>
